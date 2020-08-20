@@ -1,4 +1,9 @@
-# IMAGE_enhancer_gene_links
+# Enhancer data
+
+The enhancers making up the PEREGRINE set were taken from the following sources:
+ENCODE’s catalog of Candidate Regulatory Elements (https://www.encodeproject.org/files/ENCFF788SJC/@@download/ENCFF788SJC.bed.gz), VISTA (https://enhancer.lbl.gov/cgi-bin/imagedb3.pl?show=1;page=1;form=ext_search;search.status=Positives;search.org=Human;page_size=100;search.result=yes;action=search;search.gene=;search.sequence=1), Ensembl (http://grch37.ensembl.org/biomart/martview/440f9aee4e5507d9e90a756bcf8a3f4c), and FANTOM (http://slidebase.binf.ku.dk/human_enhancers/).
+
+# PEREGRINE_enhancer_gene_links
 
 ## Generating enhancer-gene links from eQTL data:
 
